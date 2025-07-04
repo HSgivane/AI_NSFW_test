@@ -6,7 +6,7 @@
 
 ```bash
 git clone https://github.com/HSgivane/AI_NSFW_test
-cd nsfw-detector
+cd AI_NSFW_test
 ```
 
 ### 2. Установи зависимости
